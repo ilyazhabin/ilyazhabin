@@ -7,7 +7,7 @@
 
 В данном репозитории вы сможете найти мои проекты по различным направлениям в AI/ML
 
-# Classic ML projects
+# [Classic ML projects](https://github.com/ilyazhabin/classic_ml)
 <table>
   <tr>
     <th>Project Name</th>
@@ -46,7 +46,7 @@
 </table>
 
 
-# LLM Projects
+# [LLM Projects](https://github.com/ilyazhabin/llm_engineering_projects)
 | Project Name | Description | Stack |
 |--------------|-------------|-------|
 | 1. toy_rag_example    | Использование RAG для анализа финансовой отчетности ПАО Газпром за 2024 год (на английском языке) с помощью Claude AI | Claude API, PyMuPDF, chromaDB, HF Transformers |
