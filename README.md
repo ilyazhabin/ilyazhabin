@@ -10,9 +10,9 @@
 # [Classic ML projects](https://github.com/ilyazhabin/classic_ml)
 <table>
   <tr>
-    <th>Project Name</th>
-    <th>Description</th>
-    <th>Stack</th>
+    <th>Название проекта</th>
+    <th>Описание проекта</th>
+    <th>Стек</th>
   </tr>
   <tr>
     <td>1. Линейная регрессия</td>
@@ -47,7 +47,7 @@
 
 
 # [LLM Projects](https://github.com/ilyazhabin/llm_engineering_projects)
-| Project Name | Description | Stack |
+| Название проекта | Описание проекта | Стек |
 |--------------|-------------|-------|
-| 1. toy_rag_example    | Использование RAG для анализа финансовой отчетности ПАО Газпром за 2024 год (на английском языке) с помощью Claude AI | Claude API, PyMuPDF, chromaDB, HF Transformers |
-| 2. hhru_job_listings_fetching  | Анализ keywords в вакансиях, размещенных на hh.ru с использованием их API и последующий анализ по категориям с использованием ChatGPT | OpenAI API, requests, BeautifulSoup |
+| 1. Финансовый анализ отчетности с RAG    | Использование RAG для анализа финансовой отчетности ПАО Газпром за 2024 год (на английском языке) с помощью Claude AI | Claude API, PyMuPDF, chromaDB, HF Transformers |
+| 2. Анализ keywords в вакансиях hh.ru  | Анализ keywords в вакансиях, размещенных на hh.ru с использованием их API и последующий анализ по категориям с использованием ChatGPT | OpenAI API, requests, BeautifulSoup |
