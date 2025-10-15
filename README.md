@@ -49,5 +49,5 @@
 # [LLM Projects](https://github.com/ilyazhabin/llm_engineering_projects)
 | Название проекта | Описание проекта | Стек |
 |--------------|-------------|-------|
-| 1. Финансовый анализ отчетности с RAG    | Использование RAG для анализа финансовой отчетности ПАО Газпром за 2024 год (на английском языке) с помощью Claude AI | Claude API, PyMuPDF, chromaDB, HF Transformers |
+| 1. Финансовый анализ отчетности с RAG    | Использование RAG для анализа финансовой отчетности ПАО Газпром за 2024 год (на английском языке) с помощью Claude AI | Claude API, PyMuPDF, chromaDB, Hugging Face Transformers |
 | 2. Анализ keywords в вакансиях hh.ru  | Анализ keywords в вакансиях, размещенных на hh.ru с использованием их API и последующий анализ по категориям с использованием ChatGPT | OpenAI API, requests, BeautifulSoup |
